@@ -12,7 +12,7 @@ FuncLogger
 命令执行
 录音
 
-----------------------------------------
+---
 
 This is a extension for Cydia Substrate。Log all of application's behavior, use logcat to check it.
 
