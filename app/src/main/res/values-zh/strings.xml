@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FuncLogger</string>
+    <string name="func">功能</string>
+    <string name="beh">行为</string>
+    <string name="beh_content">短信\n手机信息获取\n数据库操作\n网络行为\n通知栏\n命令执行\n录音</string>
+    <string name="func_content">这是 Cydia Substrate 的一个插件。监控所有应用行为,使用 Logcat 查看。\n</string>
+</resources>

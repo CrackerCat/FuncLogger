@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FuncLogger</string>
+    <string name="func">FUNCTION</string>
+    <string name="beh">BEHAVIOR</string>
+    <string name="beh_content">Sent SMS\nGet Phone Information\nDataBase Operation\nNetwork
+        \nNotification\nRun Command\nAudio Record</string>
+    <string name="func_content">This is a extension for Cydia Substrate。
+        Log all of application\'s behavior, use logcat to check it.\n</string>
+</resources>
